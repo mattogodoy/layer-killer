@@ -1,7 +1,7 @@
 {
   "name": "Layer Killer",
   "short_name": "Layer Killer",
-  "version" : "0.3",
+  "version" : "0.2",
   "homepage_url": "https://matto.io",
   "description": "This extension allows you to hide those pesky publicity layers that you find all over the internet with a single click.",
   "background" : {
